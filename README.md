@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, NodeJS**
 
-- 👯 I’m looking to collaborate on [charITy13](https://charity13.ca/)
+- 👯 I'm currently supporting some projects in [charITy13](https://charity13.ca/)
 
 - 💬 Ask me about **Wordpress and PHP**
 
