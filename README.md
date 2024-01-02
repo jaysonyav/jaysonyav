@@ -3,7 +3,6 @@
 
 <h2 align="center">💫 <strong>About Me:</strong></h2> 
 
-- 🔭 I’m currently working on [Gifts in Kind](https://giftsinkindottawa.ca/)
 
 - 🌱 I’m currently learning **React, NodeJS**
 
