@@ -5,9 +5,6 @@
 
 
 - 🌱 I’m currently learning **React, NodeJS**
-
-- 👯 I'm currently supporting some projects in [charITy13](https://charity13.ca/)
-
 - 💬 Ask me about **JavaScript, Wordpress and PHP**
 
 # 💻 Tech Stack:
